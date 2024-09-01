@@ -1,0 +1,36 @@
+#id1{
+    width: 800px;
+    height: 950px;
+    background-color: gray;
+    margin: auto;
+}
+#id2{
+    width: 700px;
+    height: 850px;
+    background-color: green;
+    margin: auto;
+}
+#id3{
+    width: 500px;
+    height: 600px;
+    background-color: red;
+    margin: auto;
+}
+.tuti{
+    font-size: 18px;
+    color: white;
+    text-decoration: underline;
+    margin: auto;
+    text-align: center;
+}
+#imagen{
+    width: 280px;
+    height: 195px;
+    margin: 30px;
+}
+p{
+    font-size: 20px;
+    color: gold;
+    font-family: arial;
+    text-align: center;
+}
